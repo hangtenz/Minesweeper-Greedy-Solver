@@ -7,3 +7,6 @@
 ```
 - python main.py
 ```
+
+### Screenshot 
+![alt text](https://github.com/hangtenz/Minesweeper-Greedy-Solver/blob/master/screenshot.JPG)
