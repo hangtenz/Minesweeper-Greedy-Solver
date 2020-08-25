@@ -1,7 +1,6 @@
 from tkinter import *
 import tkinter as tk
 from tkinter import messagebox
-from PIL import ImageTk, Image
 import random
 from random import randrange
 from functools import partial
